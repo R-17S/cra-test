@@ -15,6 +15,7 @@ function App() {
         </p>
         <p>
           Dev branch commit 1
+          Dev branch commit 2
         </p>
         <a
           className="App-link"
