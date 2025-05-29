@@ -18,6 +18,7 @@ function App() {
           Dev branch commit 2
           Dev branch commit 3
           popup/developer branch commit 1
+          popup/developer branch commit 2
         </p>
         <a
           className="App-link"
